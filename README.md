@@ -1,12 +1,14 @@
 # Numerical-simulation-of-electronic-material-properties
 
-This is a big project that involves reproducing many numerical models in the academia
+This is a big project that simulated electronic devices starting from building electrical material properties from the groud up
+
+## Tools: MATLAB
 
 ### Purpose
 
 Simulate the changes of electronic and optical properties of the materials under the influences of doping, carrier injection and bias
 
-### Methods: Numerical integration, finite difference
+### Methods: Numerical integration, finite difference (FD)
 
 ### Key references
 
