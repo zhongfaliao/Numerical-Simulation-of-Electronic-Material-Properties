@@ -1,9 +1,6 @@
 % Gehrsitz model AlGaAs Refractive Index Calculator
 %
-% Sean Wagner
-% October 4, 2005
-% 
-% $Id: algaasGehrsitz.m,v 1.1.1.1 2010-01-14 14:34:09 wagner Exp $
+%
 %
 % Based on mathematical formulae (with corrections) given in:
 % S. Gehrsitz et al., "The refractive index of AlGaAs below the band gap:
